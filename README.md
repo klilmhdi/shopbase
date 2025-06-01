@@ -77,5 +77,3 @@ flutter run
 ```
 
 -----
-
-**ShopBase - Shop and sell with ease!**
