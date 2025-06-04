@@ -75,6 +75,6 @@ flutter pub get
 ```bash
 flutter run
 ```
-5. **To login as Seller to open dashboard for upload product: **
+5. **To login as Seller to open dashboard for upload product:**
 Login -> enter in email: admin@admin.ad -> enter in password: 1234560
 -----
