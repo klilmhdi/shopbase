@@ -58,7 +58,7 @@ To set up and run ShopBase on your local machine, follow these steps:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/YourUsername/shopbase.git
+git clone https://github.com/klilmhdi/shopbase.git
 cd shopbase
 ```
 2. **Setting up your Firebase project:**
@@ -71,9 +71,10 @@ cd shopbase
 ```bash
 flutter pub get
 ```
-5. **Run the Application:**
+4. **Run the Application:**
 ```bash
 flutter run
 ```
-
+5. **To login as Seller to open dashboard for upload product: **
+Login -> enter in email: admin@admin.ad -> enter in password: 1234560
 -----
